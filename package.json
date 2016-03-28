@@ -1,0 +1,13 @@
+{
+  "name": "test-sels",
+  "version": "1.0.0",
+  "description": "tests sels",
+  "author": "collectivehealth",
+  "devDependencies": {
+    "gulp" : "^3.9.0",
+    "gulp-protractor" : "^2.1.0",
+    "jasmine-reporters" : "^2.1.1",
+    "protractor" : "^3.0.0",
+    "yargs" : "^3.31.0"
+  }
+}
